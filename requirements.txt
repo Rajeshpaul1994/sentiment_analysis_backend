@@ -1,0 +1,12 @@
+fastapi
+google-auth
+httpx
+nltk
+pydantic
+pyjwt
+pymysql
+python-dotenv
+redis
+requests
+sqlalchemy
+uvicorn

@@ -1,0 +1,10 @@
+flask
+flask-cors
+google-auth
+nltk
+pyjwt
+pymysql
+python-dotenv
+redis
+requests
+sqlalchemy
